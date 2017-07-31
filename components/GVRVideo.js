@@ -5,6 +5,7 @@
  * @Last Modified time: 2017-01-05 17:40:04
  */
 import React, { Component, PropTypes } from 'react'
+import PropTypes from 'prop-types'
 import { requireNativeComponent } from 'react-native'
 
 class VideoView extends Component {
